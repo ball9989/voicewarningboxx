@@ -2,7 +2,7 @@ body
 {
   margin:0;
   overflow-X:hidden;
-  font-family:"Raleway","Roboto","Helvetica",sans-serif;
+  font-family:'Designil Font', 'Helvetica', sans-serif;
   -webkit-font-smoothing:antialiased;
   -moz-font-smoothing:antialiased;
   -ms-font-smoothing:antialiased;
@@ -455,4 +455,10 @@ nav.main>.tab:hover:after
   padding: 5px;
   width: 150px;
 }
+
+.bassza {
+  overflow:auto;
+}
+
+
 /*End of Section*/
